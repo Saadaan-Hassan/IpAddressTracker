@@ -40,8 +40,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [IP Address Tracker Solution](https://your-solution-url.com)
-- Live Site URL: [IP Address Tracker Live](https://your-live-site-url.com)
+- Solution URL: [IP Address Tracker Solution](https://www.frontendmentor.io/solutions/mapping-triumph-ip-tracker-challenge-conquered-jsL9q83shF)
+- Live Site URL: [IP Address Tracker Live](https://saadaan-hassan.github.io/IpAddressTracker/)
 
 ## My process
 
